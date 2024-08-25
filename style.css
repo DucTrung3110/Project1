@@ -80,8 +80,10 @@ body {
 }
 
 .phone-container {
-  max-width: 100vw;
-  max-height: 100vh;
+  width: 100%;
+  height: 100%;
+  max-width: 430px;
+  max-height: 932px;
   margin: auto;
   border-radius: 30px;
   overflow: hidden;
