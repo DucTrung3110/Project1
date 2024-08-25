@@ -82,6 +82,7 @@ body {
 .phone-container {
   border-radius: 30px;
   overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
 .buttons {
