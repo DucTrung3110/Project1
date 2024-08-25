@@ -79,6 +79,11 @@ body {
   border-right-width: 0;
 }
 
+.phone-container {
+  border-radius: 30px;
+  overflow: hidden;
+}
+
 .buttons {
   position: absolute;
   inset: calc(var(--border-width) * -1.2);
